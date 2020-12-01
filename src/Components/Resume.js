@@ -58,7 +58,7 @@ class Resume extends Component {
 
          <a href="https://docs.google.com/presentation/d/13vEkG046yXOZmEv81LDptTj9tyzOV_cVXsQB8RoMwjY/edit?usp=sharing">The Project</a>
 
-            <p>your summary on the project
+            <p>adflkasdfasdlflkjadlsfkjladfl
             </p>
 			</div>
       </div>
