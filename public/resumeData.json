@@ -1,0 +1,177 @@
+{
+  "main": {
+    "name":"Thomas Miles",
+    "occupation":"Student-Athlete",
+    "description":"I'm a hard workng inndividual who is dedicated to a task until it's accomplished. I enjoy solving problems whether as a task or a problem somebody has. I'm a self motivated indivdual with an extrovert personality. Willing to learn from others and observe what makes them great. ",
+    "image":"profilepic.jpg",
+    "bio":"I'm currently a Student-Athlete Brigham Young University on the Men's Lacrosse team, while pursuing a degree in communications. I enjoy athletics, fitness, and socalizing with new people.  ",
+    "contactmessage":"To get in contact with me, fill out the information below and I'll get back to you within 24 hours.",
+    "email": "thomasmiles44@gmail.com",
+    "phone": "801-829-8723",
+    "address":{
+      "street":"336 East 1655 South",
+      "city":"Orem",
+      "state":"Ut",
+      "zip": "84058"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/thomas.miles.7/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/thomas_miles44",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"",
+        "url":"",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/thomas-miles-5aa62a200/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/thomas_miles44/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"",
+        "url":"",
+        "className":""
+      },
+      {
+        "name":"",
+        "url":"",
+        "className":""
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"BYU",
+        "degree":"Communications",
+        "graduated":"Fall 2019 - Present",
+        "description":""
+      },
+      {
+        "school":"Mountain View High School",
+        "degree":"GED",
+        "graduated":"May 2017",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"DoorDash",
+        "title":"Deliverer ",
+        "years":"Feburary 2020 - Present",
+        "description":""
+      },
+      {
+        "company":"Mintscapes",
+        "title":"Assistant to Crew Lead",
+        "years":"March 2020 - August 2020",
+        "description":"10-12 hour work days, demanding physical workload, communication with needs of the client, ability to preform in high stress siituations. "
+      }
+    ],
+    "skills":[
+      {
+        "name":"communication",
+        "level":"85%"
+      },
+      {
+        "name":"Understanding of Social Media",
+        "level":"70%"
+      },
+      {
+        "name":"",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Do the small things that make others feel big,",
+        "category":"",
+        "image":"resume-website.jpg",
+        "url":"https://docs.google.com/document/d/1Csa52xf0FOO8l20rNapbufxDqdaromDAM93iarmSVFQ/edit"
+      },
+      {
+        "title":"The real voyage of discovery consists not in seeking new landscapes but in having new eyes",
+        "category":"",
+        "image":"resume-website.jpg",
+        "url":"https://docs.google.com/document/d/1c2AkrAHSLjvWKGHlUaY2ShRWP-orW4N8QqqNgUSCvI0/edit"
+      },
+      {
+        "title":"Why I Chose Social Theory",
+        "category":"",
+        "image":"resume-website.jpg",
+        "url":"https://docs.google.com/document/d/1VAHc_OUOe7bCvzO3PU2LO_gQVB0btohF8kXttHRjGgY/edit"
+      },
+      {
+        "title":"Digital Divide",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"https://docs.google.com/document/d/1QsMzL0qZJ47RM3Ws9bI23GKN3XvV-33jzIxd77muEdU/edit"
+      },
+      {
+        "title":"Digital Community",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"https://docs.google.com/document/d/1DkDbmutCkxdo-UitNfOuubtjYTkFniD8aHELIPAdY4Q/edit"
+      },
+      {
+        "title":"Closing the loop",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"https://docs.google.com/document/d/1OCqUzunnXhil98p5nDAOZb6O4tbivI_d6SvWhrYKJrI/edit"
+      },
+      {
+        "title":"Mental Health unemployment",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"https://docs.google.com/document/d/1DZQCtKkOoOviyB6aktViJc3wg2r7EId6B0qKPFTskHk/edit"
+      }
+      
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":""
+      },
+      {
+        "text":"",
+        "user":""
+      }
+    ]
+  }
+}
