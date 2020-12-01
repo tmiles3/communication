@@ -58,7 +58,7 @@ class Resume extends Component {
 
          <a href="https://docs.google.com/presentation/d/13vEkG046yXOZmEv81LDptTj9tyzOV_cVXsQB8RoMwjY/edit?usp=sharing">The Project</a>
 
-            <p>adflkasdfasdlflkjadlsfkjladfl
+            <p>Where you social identify within the digital community, your consumer behavior will be influenced based on your perception of belonging within the community.
             </p>
 			</div>
       </div>
